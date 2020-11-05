@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MVRTSideProject2/static/css/main.a2e09dd1.chunk.css",
+    "main.js": "/MVRTSideProject2/static/js/main.5e070e48.chunk.js",
+    "main.js.map": "/MVRTSideProject2/static/js/main.5e070e48.chunk.js.map",
+    "runtime-main.js": "/MVRTSideProject2/static/js/runtime-main.56edfa8b.js",
+    "runtime-main.js.map": "/MVRTSideProject2/static/js/runtime-main.56edfa8b.js.map",
+    "static/css/2.d565e0ea.chunk.css": "/MVRTSideProject2/static/css/2.d565e0ea.chunk.css",
+    "static/js/2.34437ba4.chunk.js": "/MVRTSideProject2/static/js/2.34437ba4.chunk.js",
+    "static/js/2.34437ba4.chunk.js.map": "/MVRTSideProject2/static/js/2.34437ba4.chunk.js.map",
+    "static/js/3.e9c59425.chunk.js": "/MVRTSideProject2/static/js/3.e9c59425.chunk.js",
+    "static/js/3.e9c59425.chunk.js.map": "/MVRTSideProject2/static/js/3.e9c59425.chunk.js.map",
+    "index.html": "/MVRTSideProject2/index.html",
+    "static/css/2.d565e0ea.chunk.css.map": "/MVRTSideProject2/static/css/2.d565e0ea.chunk.css.map",
+    "static/css/main.a2e09dd1.chunk.css.map": "/MVRTSideProject2/static/css/main.a2e09dd1.chunk.css.map",
+    "static/js/2.34437ba4.chunk.js.LICENSE.txt": "/MVRTSideProject2/static/js/2.34437ba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56edfa8b.js",
+    "static/css/2.d565e0ea.chunk.css",
+    "static/js/2.34437ba4.chunk.js",
+    "static/css/main.a2e09dd1.chunk.css",
+    "static/js/main.5e070e48.chunk.js"
+  ]
+}
